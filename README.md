@@ -1,3 +1,3 @@
-Trying to build a simple chat app using this tutorial https://hackernoon.com/building-a-real-time-chat-application-with-websocket
+Attempt 1 with https://hackernoon.com/building-a-real-time-chat-application-with-websocket - this did not work well.
 
-It didn't work :D so I'm going to try again another time with this one https://dev.to/amarondev/building-a-real-time-chat-application-with-react-and-websocket-3138 
+Attempt 2 with https://dev.to/amarondev/building-a-real-time-chat-application-with-react-and-websocket-3138 - this still didn't go very well :(
